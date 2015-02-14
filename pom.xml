@@ -13,8 +13,8 @@
         <jdk.version>1.8</jdk.version>
         <netty.version>5.0.0.Alpha1</netty.version>
         <log4j.version>2.1</log4j.version>
-        <protobuf.version>2.5.0</protobuf.version>
-        <junit.version>3.8.1</junit.version>
+        <protobuf.version>2.6.1</protobuf.version>
+        <junit.version>4.12</junit.version>
         <config.version>1.2.0</config.version>
     </properties>
 
