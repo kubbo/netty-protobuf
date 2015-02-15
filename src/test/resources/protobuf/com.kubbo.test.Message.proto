@@ -1,0 +1,8 @@
+package com.kubbo.test;
+
+option java_package = "com.kubbo.test.protocol";
+option java_outer_classname="MessageProtos";
+message Message{
+    required int32 id=1;
+    required string msg=2;
+}
